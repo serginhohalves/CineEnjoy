@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieEnjoy</string>
+    <string name="error_default">Erro</string>
+    <string name="hello_blank_fragment" />
+</resources>
